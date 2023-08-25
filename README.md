@@ -1,4 +1,7 @@
 ### Preview
+
+Data visualization from microsoft excel and implementing it in website.
+
 ### Vote margin analyis Google Sheet link
 
 - [Link](https://docs.google.com/spreadsheets/d/1FLn-zAbAh374jldOP8EeQFvI0DZOvmQFRSZTPVgad-g/edit?usp=sharing)
